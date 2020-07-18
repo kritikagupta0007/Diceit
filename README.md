@@ -1,6 +1,8 @@
 # Dice_it
 
-A new Flutter project. This is the Flutter App which is made for fun. In this we will play with the dices.
+A new Flutter project.
+This is the Flutter App which is made for fun. 
+In this we will play with the dices.
 
 ## Getting Started
 
